@@ -1,0 +1,5 @@
+{{#user}}
+Name: S.Bhavani
+Skills: HTML, CSS, .NET
+Email: bhavani.sampangi@gmail.com
+{{/user}}
